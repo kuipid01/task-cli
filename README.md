@@ -7,7 +7,7 @@ Easily add, list, and delete tasks right from your terminal, with tasks saved in
 ## 🔗 Project URL
 GitHub Repository: [https://github.com/kuipid01/task-cli](https://github.com/kuipid01/task-cli)
 ## 🔗 Project URL ROADMAP
-GitHub Repository: ([https://github.com/kuipid01/task-cli](https://roadmap.sh/projects/task-tracker))
+GitHub Repository: ([https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker))
 
 🚀 Features
 
