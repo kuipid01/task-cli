@@ -3,6 +3,10 @@
 A simple command-line task manager written in Go.
 Easily add, list, and delete tasks right from your terminal, with tasks saved in a local JSON file for persistence.
 
+
+## 🔗 Project URL
+GitHub Repository: [https://github.com/kuipid01/task-cli](https://github.com/kuipid01/task-cli)
+
 🚀 Features
 
 ➕ Add new tasks
